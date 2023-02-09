@@ -12,3 +12,6 @@
 # Snacksuri
 - Cipsuri
 - Alune
+
+# Cosmetice
+- pudra
